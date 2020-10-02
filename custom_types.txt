@@ -1,0 +1,3 @@
+Documents, .docx .xlsx .pptx .txt .csv
+Music, .mp3 .ogg .flac .wav .aac .wma m4a
+Video, .mp4 .mov .wmv .flv .avi .mkv
